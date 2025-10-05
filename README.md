@@ -14,7 +14,10 @@
 
 ## 👋 Hello, Students!
 
-Welcome to the official GitHub organization for ENET'Com Class of 2025! This is your hub for collaborative learning, sharing projects, and building amazing things together. Whether you're just starting your coding journey or you're already a seasoned developer, this is the place to grow, learn, and contribute.
+Welcome to the GitHub organization for ENET'Com Class of 2025! This is your hub for collaborative learning, sharing projects, and building amazing things together. Whether you're just starting your coding journey or you're already a seasoned developer, this is the place to grow, learn, and contribute.
+
+> **⚠️ Important Notice**  
+> This organization is not the official entity of ENET'Com. It was created solely for educational purposes as part of the GitHub Education program.
 
 ## 🚀 Getting Started
 
